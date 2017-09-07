@@ -1,5 +1,5 @@
 # Predicting_Airbnb_Prices
-## Build a model from scratch to make predictions on Airbnb prices.
+### Build a model from scratch to make predictions on Airbnb prices.
 
 The **k-nearest neighbors** algorithm will automate the process of:
 
