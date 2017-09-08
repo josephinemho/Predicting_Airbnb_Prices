@@ -1,8 +1,18 @@
 # Predicting_Airbnb_Prices
-### Build a model from scratch to make predictions on Airbnb prices.
+Build a model to predict Airbnb prices for Washington DC and Los Angeles.
 
-The **k-nearest neighbors** algorithm will automate the process of:
+**Objective: Using the <u>k-nearest neighbors</u> algorithm, predict the price of new, unseen data for Airbnb listings for two cities: Washington DC and Los Angeles.
 
-* Finding a few listings that are similar to ours,
-* Averaging the listed price for the ones most similar to ours,
-* Setting our listing price to this calculated average price.
+
+## Approach
+
+**Part 1 -- Setup and Collection of Data**<br>
+
+**Part 2 -- Pre-Processing and Data Cleaning**<br>
+
+**Part 3 -- Build Models to Make Predictions**<br>
+
+
+## How to Follow Along
+
+Notebooks are labeled 1-3, representing steps taken to complete this project. Every notebook has a step number, a brief description in the title of what to expect, and are annotated with comments describing the reasoning behind what Machine Learning methodologies were used. 
